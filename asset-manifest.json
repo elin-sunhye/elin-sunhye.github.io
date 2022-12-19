@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/eliin-sunhye/static/css/main.38014096.css",
+    "main.js": "/eliin-sunhye/static/js/main.8b5bb091.js",
+    "static/js/787.05671433.chunk.js": "/eliin-sunhye/static/js/787.05671433.chunk.js",
+    "index.html": "/eliin-sunhye/index.html",
+    "main.38014096.css.map": "/eliin-sunhye/static/css/main.38014096.css.map",
+    "main.8b5bb091.js.map": "/eliin-sunhye/static/js/main.8b5bb091.js.map",
+    "787.05671433.chunk.js.map": "/eliin-sunhye/static/js/787.05671433.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38014096.css",
+    "static/js/main.8b5bb091.js"
+  ]
+}
